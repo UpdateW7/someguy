@@ -1,0 +1,186 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Nitori  $Marisa  >The Youkai Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "The strongest of the youkai, like kappa and tengu, live here."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "The youkai of the mountain don't attack humans,"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "but they don't take kindly to any intruders, either."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Yet, encouraged by her success, Marisa kept going back."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Nitori  >\"I told you, humans aren't allowed to go any further.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Marisa  >\"Oh, it's okay, isn't it?"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> You let me go in that one time.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Nitori  >\"Let you?"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> Don't you mean you forced your way in?\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Marisa  >\"You must've known I was trying to go against a god!\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Nitori  >\"You'd need a reason like that to get up the mountain."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> But you got that one from me for free last time.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Marisa  >\"Well, see? It's the same this time, so...\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Nitori  >\"But there's no reason to fight her now.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >\"But I didn't totally beat her, you know?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Nitori  >\"You don't need to fight Lady Yasaka anymore."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$> She's reached an understanding with us.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Marisa  >\"Huh?\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Nitori  >\"Lady Yasaka didn't come here to hurt us. In fact,",
+                "<l$> we're a lot better off now that she's here.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Marisa  >\"What? Did she take over already?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Nitori  >\"The mountain used to belong to an oni god."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> But they disappeared, and their faith went, too.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Nitori  >\"So, the world became a lot less interesting."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> That's why we've welcomed this new god."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> Isn't it fun to party with the gods every day?\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Marisa  >\"Parties... Is that what faith is all about?\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Nitori  >\"Faith <i$is> intimacy. There's another party today!\""
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "The mountain youkai get along well with their new god."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "Marisa felt out of the equation, which made her a bit lonely."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "However, beneath the mountain, the relationship between",
+                "humans and youkai was as surprisingly good as always."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "Perhaps this means the humans had some faith in the youkai?"
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "Marisa returned to the shrine, and the youkai partied."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                " "
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<l$> <c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        },
+        "33_1": {
+            "lines": [
+                "<c$Ending No.04 — The mountain youkai just do what they want.$>"
+            ]
+        }
+    }
+}

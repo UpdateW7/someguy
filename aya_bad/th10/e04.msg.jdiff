@@ -1,0 +1,59 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  $Marisa  >Hakurei Shrine, the next morning."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After her hopeless fight against the god, Marisa snuck"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "way down the mountain, pretending to be lost."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"You look tired. Did something happen yesterday?\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >\"Oh, no."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> I just went to tell the tengu about a neat rumor.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "Marisa hid that she went to the mountain to fight the god."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "So, it was a story in the next day's paper."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "—The fact that she talked back to a god, and lost."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Ending No.11 — The winners write the newspaper articles.$>"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<c$Aim for a 1cc on Normal or higher!$>"
+            ]
+        }
+    }
+}
