@@ -1,0 +1,45 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >Marisa's house."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Marisa's spirit had been crushed."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"Argh, this is no good!"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Without my Hakkero, I don't stand a chance...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Marisa was crushed under the mighty Miracle Mallet."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "But she doesn't want to borrow the power of the Hakkero... maybe."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "　",
+                "<c$Ending No. 10 — A Questioning Choice of Weaponry$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Aim for a no-continue clear!$>"
+            ]
+        }
+    }
+}

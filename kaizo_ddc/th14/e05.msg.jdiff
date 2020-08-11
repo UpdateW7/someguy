@@ -1,0 +1,156 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  $Remilia  >The Scarlet Devil Mansion."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A mansion on the Misty Lake where a vampire resides."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"...So this bewitched sword was the Inchling's.\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "3_1": {
+            "lines": [
+                "The sword glowed eerily."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "4_1": {
+            "lines": [
+                "<r$Sakuya  >\"No, I mustn't... Something wrong is filling my heart.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Sakuya  >\"..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Is there anything around for it to cut?"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> A fairy would be just perfect.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Remilia  >\"Oh? What are you doing?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Sakuya  >\"This bewitched sword seems to want blood,",
+                "<l$> so I wanted to cut something with it...\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Remilia  >\"Ahh...\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Remilia  >\"Oh yes, what happened with the rioting on the lake?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Sakuya  >\"I exterminated them quite a while ago."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> As well as all the foes to follow.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Remilia  >\"Hmm. Is that right.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Sakuya  >\"How about it?"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> Do you wish to test the feel of cutting with this sword?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Remilia  >\"Is it fun?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Sakuya  >\"It may be, yes. The sword delights at it.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Remilia  >\"My, Sakuya, you've gotten so bold... I'm glad.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "The rampaging bewitched sword once belonged to the Inchling."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Sakuya did not return it to her, but rather took it back home."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "She knew it radiated a bewitching magic power,",
+                "but still, she could not let it go."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "The sword will go on cutting up youkai for a while longer."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "But the mistress of the mansion was quite pleased with the sight."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "25_1": {
+            "lines": [
+                "<c$Ending No. 05 — Polite, Refined Madness$>"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<c$All clear! Congratulations! You are a super player!!$>"
+            ]
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "0": {
+        "64_0": {
+            "lines": [
+                "What? Who're you?",
+                "This is no place for humans like you."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Take your leave at once!"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "I'm in the middle of somethin' important."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Oh, well, in that case..."
+            ]
+        },
+        "96_0": {
+            "lines": [
+			    "What, you really expect me to leave?",
+                "What's the big idea building this castle in the sky?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "...Oh.",
+                "I see, your purification rod..."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Looks like it has a mind of its own.",
+				"It's, dare I say, rebelling!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Oh dear, I guess that means it's",
+                "been possessed by her..."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "What's that?",
+				"Who's her?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Tsk, what a hassle.",
+                "Perhaps the compensation was too great?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "I guess my world won't come",
+                "into fruition so easy."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Hey, could you be..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Are you really plotting",
+                "a social upheaval...?!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Heh heh heh...",
+                "Indeed I am."
+            ]
+        },
+		"176_0": {
+            "lines": [
+                "You see, we live in a society. A flawed society of inequality.",
+                "I simply seek to turn that on it's head!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Soon the mighty will lose their power,",
+                "and the weak will rule this world!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+			    "...",
+                "I'm stunned."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "I didn't think any youkai",
+                "would do something so fruitless."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "Fruitless...?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "Just how much have the weak been",
+                "oppressed for you to say that?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "I guess you just cannot understand.",
+                "I won't let you leave anymore, you had your chance."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Now, taste frustration in this inverted castle,",
+                "and soon, Gensokyo's turnabout!"
+            ]
+        },
+		"240_0": {
+            "lines": [
+                "Welcome to my world!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Guh! What the hell...",
+                "Was it too soon?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Maybe I should've been more specific to her..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Is that how you planned to turn society on its head?",
+                "Sounds pretty lame."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I've beaten many youkai much more powerful than you.",
+                "Now, let me pass, I ain't taking anymore lip from you."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Not just yet!",
+                "We'll never give up!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "As long as we have her treasure, we can become as strong as we like!",
+                "...If we can ignore a few consequences, hopefully."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Arrivederchi!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Hey, wait!",
+				"She, ran away?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "That's telling of a youkai who's all talk.",
+				"She went that way. Time to follow that perpetrator."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "To the stronghold, the end of revolution!"
+            ]
+        }
+    }
+}

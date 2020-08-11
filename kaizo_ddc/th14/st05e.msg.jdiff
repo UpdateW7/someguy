@@ -1,0 +1,223 @@
+{
+    "0": {
+        "64_0": {
+            "lines": [
+                "What? Who're you?",
+                "This is no place for humans like you."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Take your leave at once!"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "I'm in the middle of somethin' important."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "I heard that if I came here,",
+                "tools could be granted power."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "I'd like to hear the details..."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "...Ah.",
+                "That sword in your hand..."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "It seems to have gained a sense of self.",
+                "Fully independent!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Maybe the price for that was too big",
+                "if even something like that was affected."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Excuse me?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Never mind.",
+                "Do you want to become stronger?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Well... I suppose so."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Then become my ally."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "|\tWe are \t,\tthose who will\t,a resistance force",
+                "We are those who will overturn society.",
+                "We will redraw the political borders of Gensokyo!"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "A resistance force!?",
+                "Well, well..."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I think I've overheard something important!",
+                "The upheaval of society as we know it, what a plan!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "So?",
+                "Will you join me in my efforts?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Unfortunately, I'm already",
+                "attached to another political power."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "To me, a resistance force means a revolt.",
+                "Just imagine the chaos it'll bring!"
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "I never had the choice of becoming your ally from the start."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "I see...",
+                "That is unfortunate."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "If none of you can imagine how much the weak, like us,",
+                "have been oppressed... Then..."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Well, you know what they say, \"No matter how they struggle,",
+                "there are always limits of what a human can do.\""
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "So, in this inverted castle where everything is turned upside-down,",
+                "I'll give you a taste of the humiliation the weak have suffered!"
+            ]
+        },
+		"248_0": {
+            "lines": [
+                "Welcome to my world!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Guh! What the hell...",
+                "Was it too soon?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Maybe, t'was too late?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "It seems you were all talk.",
+				"This knife could probably beat you by itself..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Compared to me, you are but a monkey."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Ugh...",
+                "That knife's power is an effect of the \"payment.\""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I can't believe it would become",
+                "something that could slit necks on its own."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, whatever. As long as we have her treasure, ",
+                "we can become as strong as we want!"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "We will be number one by",
+                "dawn at this rate!"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "'Till then, arrivederchi!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Ah..."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Everything is clear now."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "The reason tools are starting to move,",
+                "and docile youkai are making a mess..."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "|\tis because of the \t,\tAmanojaku\t,resistance force",
+                "is because of the Amanojaku.",
+                "I don't know how they did it yet, though."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "But for now,",
+                "let's make sure the world as we know it doesn't stop!"
+            ]
+        }
+    }
+}
