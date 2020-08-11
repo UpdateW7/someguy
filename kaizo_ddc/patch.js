@@ -3,8 +3,7 @@
     "dependencies": [
         "nmlgc/base_tsa",
         "nmlgc/script_latin",
-        "nmlgc/western_name_order",
-        "someguy/kaizo_ddc"
+        "nmlgc/western_name_order"
     ],
     "servers": [
         "https://mirrors.thpatch.net/someguy/"
