@@ -1,0 +1,45 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >Marisa's house."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Marisa's spirit was shaken."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"Huh, not too shabby."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> I may just ally with them after all...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Marisa was crushed under the mighty Miracle Mallet."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Is Marisa just going to join the rebels?!"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "　",
+                "<c$Ending No. 09 — Use bombs effectively!$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Aim for a no-continue clear!$>"
+            ]
+        }
+    }
+}

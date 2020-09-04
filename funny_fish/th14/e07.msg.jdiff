@@ -1,0 +1,45 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Reimu's spirit was shaken."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"Agh, so relentless...",
+                "<l$> Should I join the side of the resistance...?\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Reimu was crushed under the mighty Miracle Mallet."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "But to want to side with the resistance..."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Do you want to make an enemy of all humans and youkai, Reimu?"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<c$Ending No. 07 — You can't give up yet!$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Aim for a no-continue clear!$>"
+            ]
+        }
+    }
+}

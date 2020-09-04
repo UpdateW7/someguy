@@ -1,0 +1,153 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  $Marisa  $Shinmyoumaru  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A shrine on the east edge of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"Grooow big!\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Reimu  >\"Nope, it didn't do anything...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"Sure it's not a fake?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"No, I definitely got bigger earlier.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Marisa  >\"And how did that go?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"It got really hard to dodge bullets.",
+                "<l$> It's best not to get too huge, I'd say.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"...Eh, sure.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Swing it all you want, it won't work for humans.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Reimu  >\"Oh? Did somebody say something?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Only we Inchlings can use the Miracle Mallet."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> Though our bodies are small as a consequence...\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"Hmph, really? That's boring."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$> But say, is it true it can grant any wish?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Maaaybe. I've heard as much.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Marisa  >\"What, and you never tried it?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Well, there's no way to prove it can grant <i$any> wish."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> That's what the Amanojaku told me.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Marisa  >\"The amanojaku told you that... and you believed it?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Reimu  >\"Maybe it doesn't really grant wishes at all.\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Hey, um, my hands are getting numb...\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "All the power stored in the Inchling was released,",
+                "making her small again. She'll be that way for a while."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "This was the first time the Miracle Mallet",
+                "had been used for a wish besides growing big."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Besides the desired wish, power unexpectedly leaked,",
+                "enraging peaceful youkai and making tools come alive."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "One might wonder, did the Amanojaku know about this?"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<c$Ending No. 02 — (Hitbox,) grooow smaller!$>"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<c$All clear! Congratulations! You're cool!$>"
+            ]
+        }
+    }
+}

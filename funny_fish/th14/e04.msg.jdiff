@@ -1,0 +1,156 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Reimu  $Shinmyoumaru  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A shrine on the east edge of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"Huh, so you were worrying too.\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"W-Worrying? What...?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> I just thought it was strange.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"Well, yeah, it is strange for things to move on their own.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Marisa  >\"Of course, you didn't use your purification rod, did you?\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Reimu  >\"N-No. Of course I didn't."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> Why would I ever use a tsukumogami tool?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"Well, I figured out how to return it to normal.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Reimu  >\"Really?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Reimu  >\"And that's...?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Marisa  >\"The Miracle Mallet."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> The so-called granter of any wish.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"I meant the other one.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >\"Oh, she's its former owner.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >(Mmm, mmph...)"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Reimu  >\"I give up. How did you get something like that...?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Marisa  >\"This girl was the culprit."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> Miracle Mallet is a fancy-sounding name, but..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> Fact is, it's just another tool of oni."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$> It's a cursed tool.\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "The tools acting up was due to the magic of the Miracle Mallet."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "It didn't grant Marisa's wishes,",
+                "but it could return the tools to normal."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Cursed magical power can seep into the gaps in one's heart."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "As a magician, Marisa knew that very well."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "If left alone, the world could perhaps",
+                "be turned on its head as the Inchling said."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Marisa decided to go round up the mallet's magical power."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<c$Ending No. 04 — The oni have a lot of tools.$>"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<c$All clear! Congratulations! You're cool!$>"
+            ]
+        }
+    }
+}
