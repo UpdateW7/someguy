@@ -9,6 +9,6 @@
     ],
     "update": true,
     "servers": [
-        "https://srv.thpatch.net/lang_en/"
+        "https://srv.thpatch.net/kaizo_wbawc/"
     ]
 }
