@@ -1,0 +1,134 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Youmu  $Yuyuko  >Hakugyokurou."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A picturesque mansion in the Netherworld."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Here there are no gods."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Youmu  >\"Blah blah blah, and so on.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Oh, sorry.",
+                "<l$> I wasn't listening.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Youmu  >\"Then I'll start over with my report."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Regarding the invasion of animal spirits...\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Wow, an evil god in the Beast World...?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Youmu  >\"They came to Earth in order to find people",
+                "<l$> who could help defeat her.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Is that so?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> But isn't it possible that that was also a trick?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Youmu  >\"Eh?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Yuyuko  >\"They're famous, you know."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> Everyone knows the Kiketsu Family is a Yakuza group that casually swindles people."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$> Weren't you actually tricked into defeating that evil god for them?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Youmu  >\"Sh-She's famous? That tortoise?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Yuyuko  >\"And you were talking about an evil god,",
+                "<l$> but how do you know she's actually evil?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Now get going.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Youmu  >\"Huh?\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Yuyuko  >\"Your new job is to investigate the evil god.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "The evil god Keiki Haniyasushin showed up on Earth before too long."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "She was never a god of the Animal Realm in the first place, so this wasn't too odd."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Though for some reason, it seemed eerily likely that she would bring",
+                "the Animal Realm's survival-of-the-fittest conflict with her out into the surface world."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Ending No.09 Doing Her Job For Once"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Congratulations!",
+                "No Continue Clear!"
+            ]
+        }
+    }
+}

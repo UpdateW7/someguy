@@ -1,0 +1,79 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Yachie  $Youmu  ><r$Yachie  >\"I'm Kicchou, the chief of the Kiketsu Family."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "<l$> We were wrong to have placed our hopes in you."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Yachie  >\"It's inconvenient for us to let you live any longer."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Yachie  >\"...Understood."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> However, there are plenty of humans that can take your place."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "You were just barely forced to run away from the evil god."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "Bad Ending No. 03 Aim for a No Continue Clear!"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<l$> It seemed the evil god's power just barely managed to beat you.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> It's unfortunate, but...\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> We won't allow any more failures.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "You absolutely can't lose next time!"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Youmu  >\"Wawawaaa!\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> I've already analyzed all my enemy's attacks!\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> Just let me fight one more time!"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Youmu  >\"N, no I'm fine!"
+            ]
+        }
+    }
+}

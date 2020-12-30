@@ -1,0 +1,154 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Keiki  $Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A shrine on the outskirts of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "This is the so-called \"Youkai Shrine\" ",
+                "where youkai come more often than ",
+                "humans."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "The beast spirit invasion had stopped, but Reimu,",
+                "who couldn't see the full picture, was a little unsatisfied."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Keiki  >\"The air in the human world really is delicious, isn't it.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Reimu  >\"You again?"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> You keep coming back to visit, huh.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Keiki  >\"I was thinking about where I should set up my base",
+                "<l$> if I came to the Human World.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"What, are you planning on coming to the Human World? Stop it.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Keiki  >\"Don't say that.",
+                "<l$> Maybe you'll change your mind when I tell you about the poor human spirits.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Reimu  >\"I don't want to hear it.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Keiki  >\"The human spirits might be happier on the surface rather than",
+                "<l$> in the Beast World. Don't you think?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Reimu  >\"They're ghosts, aren't they? Then they should just go to the Netherworld.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Keiki  >\"The Netherworld turned us down, you see. They said they already have too many ghosts."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$> And since the human spirits from the Beast World aren't the type to laze around,",
+                "<l$> they might not be suited for the Netherworld.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Reimu  >\"So they're troublemakers? The surface doesn't want them, either.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Keiki  >\"They aren't troublemakers."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$> They just can't relax easily. You could say they're hard workers.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Keiki  >\"By the way, changing the subject, what's the goshintai for this shrine?\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Reimu  >\"Eh?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Keiki  >\"If you want, should I carve out an excellent idol for you?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Reimu  >\"Oh, really?"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> If you're saying you'll make something cool, then...\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "It seemed Keiki had gained an interest in the Human World."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Reimu learned afterwards that she had thrown the Beast World into chaos",
+                "by spreading her idolatry."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "She had the feeling that, not humans vs. beasts, not physical vs. spiritual,",
+                "but a religious confrontation was approaching."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<c$Ending No. 01 — The Haniwa Idol$>"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Congratulations!",
+                "Good job on your No Continue Clear!"
+            ]
+        }
+    }
+}

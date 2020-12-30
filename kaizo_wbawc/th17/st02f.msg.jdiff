@@ -1,0 +1,93 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "This river's as creepy as always..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I never thought I'd see a flesh and blood human",
+                "|\tin \t,\ta place like this.\t,the Sanzu River.",
+                "in a place like this."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Are you lost?",
+                "This isn't a place for the living."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Perfect timing!",
+                "Someone I can talk to showed up!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Tell me how to get to Higan, now!",
+                "If you can't, then get lost!"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Hm?",
+                "You want to go to Higan?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Direction to Higan, huh?",
+                "Let's see..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "You wanna go straight northeast.",
+                "Closer to me."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Grr... you're strong."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Well, that was a waste of time.",
+                "Now which way is Higan?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Just keep going straight ahead."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Why didn't you just",
+                "say so in the first place?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I want to save up my magic for Hell."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Wait, so you're not just heading for Higan,",
+                "but Hell?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "That's... ",
+                "My condolences."
+            ]
+        }
+    }
+}

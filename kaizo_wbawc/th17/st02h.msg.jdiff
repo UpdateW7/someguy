@@ -1,0 +1,91 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I probably should have taken",
+                "a shinigami's ferry for this..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I thought you were a lost phantom..."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "But it seems like you're still alive."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Are you... that ushi-oni?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Good timing.",
+                "I'm an agent of the Netherworld."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "I kinda lost my way...",
+                "Do you know the way to Higan?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ah, you're that carefree gardener from ",
+                "the Netherworld, aren't you..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "...Wait, you must be an impostor."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "How could an agent of the Netherworld",
+                "get lost in the Sanzu River!?"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Ouch... You're strong",
+                "for an impostor."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I'm real, seriously!",
+                "I just got lost, that's all..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Usually I would have a shinigami lead the way, but..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "There's some sort of emergency,",
+                "so I ended up rushing out alone..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Ah, yeah, it was like that.",
+                "Now I remember."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "The Netherworld's gardener,",
+                "passing through in a carefree manner..."
+            ]
+        }
+    }
+}
