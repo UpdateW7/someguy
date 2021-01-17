@@ -6,7 +6,8 @@
 	    "kaizo_ddc": "A remodeling of DDC to be harder and more interesting.",
 		"funny_fish": "A bonus stage for KDDC starring a certain funny fish.",
         "ringo": "Not the starr, the bunny. Replaces TH15 Junko with a custom Ringo boss fight. Lots of bugs regarding music.",
-	    "kaizo_wbawc": "A remodel of WBaWC, because Kaizo DDC was garbage."
+	    "kaizo_wbawc": "A remodel of WBaWC, because Kaizo DDC was garbage.",
+	    "morpho": "An After Extra of HSiFS made by me because Eternity is a cool character. "
     },
     "servers": [
         "https://mirrors.thpatch.net/someguy/"
