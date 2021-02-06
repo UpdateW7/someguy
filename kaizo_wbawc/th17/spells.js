@@ -2,7 +2,7 @@
     "0": "Prison \"Stone Maze\"",
     "2": "Purgatory \"Stone Labrynth\"",
     "4": "Memory \"Stillborn in Limbo\"",
-    "6": "Truama \"Forever Stuck in Limbo\"",
+    "6": "Trauma \"Forever Stuck in Limbo\"",
 	
     "8": "Consequnce For Kindness \"Heavy Stone Baby\"",
     "10": "Death By Kindness \"Two-Ton Stone Baby\"",
