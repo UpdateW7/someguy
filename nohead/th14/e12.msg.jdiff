@@ -1,0 +1,49 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  >The Scarlet Devil Mansion."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Sakuya's spirit had been crushed."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"The Miracle Mallet's power is beyond expectation."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Should I tell the mistress now...? Or else...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Sakuya considered something unthinkable, and gave up on telling her."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "In any case, the Miracle Mallet can grant any wish, so..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "6_1": {
+            "lines": [
+                "<c$Ending No. 12 — Maybe watch others play sometime...$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Aim for a no-continue clear!$>"
+            ]
+        }
+    }
+}

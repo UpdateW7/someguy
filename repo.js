@@ -7,7 +7,8 @@
 		"funny_fish": "A bonus stage for KDDC starring a certain funny fish.",
         "ringo": "Not the starr, the bunny. Replaces TH15 Junko with a custom Ringo boss fight. Lots of bugs regarding music.",
 	    "kaizo_wbawc": "A remodel of WBaWC, because Kaizo DDC was garbage.",
-	    "morpho": "An After Extra of HSiFS made by me because Eternity is a cool character. "
+	    "morpho": "An After Extra of HSiFS made by me because Eternity is a cool character. ",
+		"nohead": "Replaces TH14 Sukuna with a custom Sekibanki boss fight. I watched one boss rush video, and this happened."
     },
     "servers": [
         "https://mirrors.thpatch.net/someguy/"
