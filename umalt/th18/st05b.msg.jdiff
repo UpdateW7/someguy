@@ -1,0 +1,339 @@
+{
+    "2": {
+        "104_0": {
+            "lines": [
+                "Why, what's this?",
+                "Perhaps you're stranded in the sunset?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "I have no interest in who you might be, human,",
+                "but this isn't a place that humans ought to set foot in right now."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "*Inhaaaale*..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Hwaaaaah..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Dang, yeah!",
+                "Takin' deep breaths on a mountain is the best!"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Oh my.",
+                "Why, it's you again."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Your perseverance is bewildering.",
+				"This place is very dangerous as of late."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Who're you?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I am the Great Tengu, Iizunamaru."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I have no interest in",
+                "who you might be, human,"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "but this isn't a place that humans",
+                "ought to set foot in so easily."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "A Great Tengu...",
+                "Man, I must've hiked pretty deep by now."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Well, I've got somethin' I wanna investigate.",
+                "You got time to spare?"
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "What might that be?"
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "You know 'bout those Ability Card things?",
+                "They're making the rounds down in the foothills."
+            ]
+        },
+        "228_0": {
+            "lines": [
+                "You happen t' know anything about them?"
+            ]
+        },
+        "236_0": {
+            "lines": [
+                "The Ability Cards?",
+                "I don't just \"know\" about them."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "I created them, as a matter of fact!"
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "Huh? What!?"
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "There you are.",
+				"Sorry I'm late, Master Iizunamaru."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "See, things turned out just like I said they would."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "A human would be sure to come snooping up here eventually!"
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "I suppose we have no choice by now.",
+                "I shall deal with this human myself."
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "So in the meantime, Master Iizunamaru, you can..."
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "Ah-hah-hah!",
+                "Don't get ahead of yourself."
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "You're too confident in your own strength,",
+                "despite being a weakling."
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "Oh no, as your consultant, I insist."
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "Besides, you're my master here,",
+				"and so, your protection is my upmost importance."
+            ]
+        },
+       "422_0": {
+            "lines": [
+                "I- I suppose...",
+                "That does sounds sensible."
+            ]
+		},
+	    "430_0": {
+            "lines": [
+                "Then it's settled.",
+				"You head back while I consult with her!"
+            ]
+		},
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Heh heh heh.",
+                "Splendid."
+            ]
+        },
+        "42_0": {
+            "lines": [
+	            "So noble of her to have put her life for mine.",
+                "I'm fond of brave, powerful people like you and her. I'll hear you out."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You said that you made the",
+                "Ability Cards a minute ago, right?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Yes, that's right."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I figured I could make a good profit using the dragon",
+                "gems dug up from the Rainbow Dragon Cave, you know?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Gotcha. I think I'm puttin' it together."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "I've been noticing those rainbow lights",
+                "here an' there for a little while now..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Those are all rainbows bein' projected by the dragon gems, right?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Indeed.",
+                "You're quite the knowledgeable..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "I thought it was weird that every",
+                "single card was its own magic item."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "If you dug 'em up from a magic mine,",
+                "then it makes total sense."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "So, what are you going to do now?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "I'm investigating 'em out of pure curiosity!"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "That, plus the tiniest hint of wanting to hoard 'em."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Well, I'm afraid I'll have to disappoint you."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "I may have designed the cards,",
+                "but they're out of my hands by now."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "If you do seriously want to investigate their",
+                "whereabouts, collect them, and so on..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I suggest you search for the mastermind, who's even higher up in the sky."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I see...",
+                "Got it!"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Yeesh, nearly got hurt there.",
+                "...Are you alright, letting her leave, and reach that god?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Glad you're okay, but it's fine."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "If I hadn't made effective use of her ability in the first place,",
+                "she'd still have been a washed-up shell of a god..."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "And yet she regained her power while my back was turned,",
+                "and started trying to take over the rights to the cards!"
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "She's made herself into just enough of a nuisance by now.",
+                "I'm sure that girl just now will do a good job for us."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "...Ahahaha.",
+                "I see."
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "When you betray someone, you don't",
+                "do it with your own hands."
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "A wonderful idea, in my opinion."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Oh, and thank you for caring about me back there.",
+                "Though, next time, I'll deal with a human like her."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "Yesiree, master."
+            ]
+        }
+    }
+}
