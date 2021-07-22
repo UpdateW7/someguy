@@ -3,7 +3,6 @@
         "@",
         "",
         "This is one of Suwako Moriya's themes, as remixed in Urban Legend in Limbo.",
-        "",
         "Hey, this is the creator of the Unremarkable Marketeers mod!",
         "Just going to give some words about the new tracks here.",
         "I didn't quite know what to give Suwako, so I played it safe with her theme in Histensoku.",
@@ -23,9 +22,8 @@
         "",
         "This is a remix of Chimata Tenkyuu's theme.",
         "",
-        "10/10 arrange.",
         "I already adored the original theme, but this truely gives it that \"final boss\" touch it really needed.",
         "Some chords are different, kinda heroic? The looping last part is what sold it to me. It's, er, god-like.",
-        "The fact this was made in 5 days, purely amazing."
+		"10/10 arrange. The fact this was made in 5 days, purely amazing."
     ]
 }
