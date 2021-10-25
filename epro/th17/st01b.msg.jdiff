@@ -1,0 +1,78 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Alright? What crazy place am I now?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I don't think I've been to this side of the plains before...",
+				"Yet it's so near from the shrine!"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "TEST!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "ABCabc123...?",
+                "BOTTOM TEST~!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "I'm sorry, what?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Uh, er, hi there. Please don't interupt me right now.",
+                "I was just testing the message boxes."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "But, since you already did...",
+                "I suppose I have to get you out of my sight!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Oh dear, my zzuper laptop!",
+				"I'll fezzzz up!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Make it quick."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I've got places to be, after all."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Thizz izz my Zzcript!",
+                "You've got another zztage until you can rezzt eazzy."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I think I worked on giving a friend a zzpot azz well.",
+                "A, er, zztrong one... I'll zzend you there!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Just get me out of here."
+            ]
+        }
+    }
+}

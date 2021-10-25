@@ -1,0 +1,73 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Wow..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I know one thing for sure...",
+                "I sure am not in the Netherworld."
+            ]
+        },
+	    "110_0": {
+            "lines": [
+                "Welcome!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "You have been invited to fight me in my awesome first script!",
+                "Will you accept?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Script?",
+                "Wherever this is, is there a way to get me out."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Sure thing..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You just have to complete my tasks before I tell!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Oh dear, my zzuper laptop!",
+				"Alright, I'll tell how to get out!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You juzzt have to beat thizz next zztage I made for a friend.",
+                "She'zz a zztrong one, zzo watch out."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Alright...!",
+                "How do I get there?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Well it'zz zzurpizzingly zzimple.",
+                "We juzzt zztop talking..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Now."
+            ]
+        }
+    }
+}

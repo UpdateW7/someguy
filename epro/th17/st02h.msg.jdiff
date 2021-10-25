@@ -1,0 +1,57 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Woah, this place is very disorienting.",
+                "Hope I find a way out before I get dizzy."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Ah, finally, a human?",
+                " Welcome to the Dreamyard!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "I am the owner of these fields. The one who brings",
+                "|\tback long-lost dreams. The nonexistant \t,\tdream\t,game",
+				"back long-lost dreams. The nonexistant dream itself."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Oh, you must be the friend of the Computer Youkai."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Great timing.",
+                "I was looking for you!"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "She told me to slash at you until I can get out.",
+                "So, I ask because I should, would you like to duel?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Are you another arrogant human? You look so pale...",
+                "Perhaps your dream is a suntan?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I'm glad to say that this place is very sunny!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "I accept your request, so stay awhile!",
+                "When I'm done, I'll make that dream come true!"
+            ]
+        }
+    }
+}
