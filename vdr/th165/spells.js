@@ -149,7 +149,6 @@
     "99": "\"Terminal Lucidty Phenomena\"",
     "100": "Origami Sign \"Zener Card Shuriken EX\"",
     "101": "\"Vanishing into Otherworldly Reverie ~Idol & Rebellion~\"",
-    "101": "\"three of them\"",
 	
     "187": "\"Monkey Possession\"",
     "188": "Egotistical Paparazzi Reporters \"Esoteric Eagerly Exposed!\"",
