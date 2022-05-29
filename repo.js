@@ -12,6 +12,7 @@
 		"umdemo": "A medley of the first 3 stages of UM crafted within HSiFS because why not? Kinda rushed for a contest, but I tried.",
 		"umalt": "A scrapbook of ideas and messing around with the game. Fun stuff.",
 		"epro": "A danmaku mockup showcase for a Stage 1 and 6 of fangame minus the game. Made in pure fun."
+	    "vdr": "A remodel of VD because itself was garbage.",
     },
     "servers": [
         "https://mirrors.thpatch.net/someguy/"

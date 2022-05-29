@@ -1,0 +1,61 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Whoa, never thought I'd run into you",
+                "in a place like this."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Oh, thank goodness.",
+                "You seem normal."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Great, that's great."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I can't believe you <b$came> to a place like this",
+                "of your own will."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Now you can fight all you want."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "C'mon, hit me with everything you've got!",
+                "Otherwise, you'll never get out of here!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "You aren't normal at all!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+				"Well, that just happened. Teleportation, huh?",
+                "At least this attack isn't anything special."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I just want to wake up from this crazy dream already!"
+            ]
+        }
+    }
+}
