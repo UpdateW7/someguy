@@ -112,7 +112,7 @@
     "906": "\"UFO EX\"",
 	"75": "Forbidden Barrage \"Carousel of Agony\"",
     "75ALT": "Forbidden Barrage \"Ternion Cage ~Ring Around the Rosie~\"",
-    "76": "Native Myth \"Vansihing Amphibian Sun Maiden\"",
+    "76": "Native Myth \"Vanishing Amphibian Sun Maiden\"",
     "77": "\"Unknown Nebula\"",
     "78": "Shikigami \"Instant God Messenger\"",
     "79": "Seventy-Ninth Duel \"Flag on the False Moon ~Modern Lure~\"",
