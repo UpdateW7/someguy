@@ -32,12 +32,12 @@
     "18": "Esoterica \"Secret Sparkling Star ~Miracle Boundary~\"",
 	
     "906": "\"LoLK 3\"",
-	"19": "\"Unreavelling Thoughts in Celedon\"",
+	"19": "\"Unravelling Thoughts in Celadon\"",
 
     "906": "\"LoLK 3 Climax\"",
     "20": "Dream Barrier \"Worn Out Fantasy\"",	
     "21": "Dream Beast \"Beast Fishing Xing\"",
-    "22": "Dream Ordeal \"Bird Ordered by Judgement ~Lethal Oniwatari~\"",
+    "22": "Dream Ordeal \"Judgement Wings ~Lethal Oniwatari~\"",
     "23": "Dream Season \"Etarnity's Summer Harvest ~Doyou~\"",
     "24": "Dream in Limbo \"Let Me Be Heaven Bound\"",
     "25": "Dream Dango \"Ringo Brand Dango ~Moon Flavored~\"",

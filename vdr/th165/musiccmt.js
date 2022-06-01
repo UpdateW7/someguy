@@ -31,8 +31,8 @@
         "",
         "This is the Agnosic Week Theme, Track 35 from <i$ジェネリック東方新作、みんなで視聴。>",
 	    "* Composed by <i$ゆずれす／いちごパプリカ>",
-        "A simple Final Boss-ish theme for the final-extra-boss all-stars. Also an arrangement of the Tutorial theme.",
-        "I would've chosen Sumireko's theme tbh, but this, especially the beginning, sounds like Okina's theme.",
+        "A simple Final Boss-ish theme for the final-extra-boss thing. Also an arrangement of Track 5.",
+        "I would've chosen Sumireko's theme tbh, but this, kinda sounds like Okina's Final Boss theme.",
         "I think that ties well with the \"story.\""
     ],
     "5": [
