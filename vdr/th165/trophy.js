@@ -243,7 +243,7 @@
         "You've missed 100 times.",
         "The dream can make the weak worn out."
     ],
-    "41": "Sticks and Stones do Break Bones",
+    "41": "Sticks and Stones May Not Break Bones",
     "41_1": [
         "You've missed 300 times.",
 		"But can bullets hurt? Hopefully not."
