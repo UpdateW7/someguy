@@ -355,8 +355,8 @@
         "\"Only a drumful.\""
     ],
     "16_6": [
-        "The only real notable thing was that unfamiliar shaky figure.",
-        "That sly thing didn't look to be taking damage, but she must've, right?"
+        "A 3v1 sounds like a hard deal, but I got through it.",
+        "Just, have I seen that hatted figure yet in this nightmare?"
     ],
     "17_0": [
         "What to do today...?",
