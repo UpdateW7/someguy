@@ -1,4 +1,4 @@
-This is a mod that makes VD not as recycled from previous games.
+This is a mod that makes VD not as recycled from previous games. Also serves as a tribute to whatever inspired me to make this garbage collection of mods.
 Pretty much a cool spellcard gallery I made in my spare time.
 While I like to compare the difficulty of KWBaWC to a (bad) CAVE game, this one is more on par with the first two photo games, "Shoot the Bullet" and "Double Spoiler," which isn't a huge downgrade to be honest.
 Enjoy the show! Just don't have nightmares about it. 
@@ -15,4 +15,4 @@ Track 8 - https://youtu.be/25KKxPD47Aw (Jerrystuff (Ro))
 Also featuring sprites by "GreenDinobot" and a Danmakufu script by "TalosMistake"
 
 Finally, just a heads up, cameo characters that relate to Okina and dreams by "Bravi" and "PKWeegee" show up in the 3rd Friday and penultimate scene,
-the whole day being a tribute to what inspired me to make this, but I'm currently working on an alternative version that is more grounded, so stay tooned!
+the whole day being the tribute to what inspired me to make this, but I'm currently working on an alternative version that is more grounded, so stay tooned!
