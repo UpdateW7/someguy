@@ -372,7 +372,7 @@
     ],
     "17_3": [
         "Looks like a saint being crucified on a cross. 10 if you're being funny.",
-        "Best not ask why this vampire is immune to that sport of deal."
+        "Best not ask why this vampire is immune to that sort of deal."
     ],
     "17_4": [
         "Is she a phoenix, or is her aura one? Either way, she revives with a bang.",
@@ -383,8 +383,8 @@
         "All my homies hate attacks that restrict movement."
     ],
     "17_6": [
-        "Are there any other guys that can control time, use knives,",
-        "and are associated with vampires? Asking for a friend."
+        "These two just won't make me catch a break.",
+        "It's like watching a long marathon of some shows of nonsese!"
     ],
     "18_0": [
 		"So many dreams I cannot recall. Might as well just say",

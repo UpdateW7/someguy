@@ -1,3 +1,15 @@
+CHANGE LOG (07/03/2021)
+
+Fixed a few spelling mistakes.
+Nerfed scoring by making the bubbles invincible again and making them less dense. [18 - 2]
+Nerfed scoring slightly. [18 - 3]
+Added time, HP, camera damage. [19 - 4]
+Nerfed seija walling. [20 - 4]
+Added checkpoints to Final Scene (finally). [22 - 2]
+
+
+---
+
 This is a mod that makes VD not as recycled from previous games. Also serves as a tribute to whatever inspired me to make this garbage collection of mods.
 Pretty much a cool spellcard gallery I made in my spare time.
 While I like to compare the difficulty of KWBaWC to a (bad) CAVE game, this one is more on par with the first two photo games, "Shoot the Bullet" and "Double Spoiler," which isn't a huge downgrade to be honest.

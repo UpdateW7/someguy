@@ -86,7 +86,7 @@
     "56": "Back Door \"Matarah Vijnana\"",
 	
     "906": "\"PCB 6\"",
-    "57": "Ghastly Dance \"Saigyouji Afterlife Ritutal ~Mahasamadhi~\"",
+    "57": "Ghastly Dance \"Saigyouji Afterlife Ritual ~Mahasamadhi~\"",
     "58": "Judgement \"Ascension into a Monochrome World\"",
     "59": "Khanti \"Forbidden Sorcery Extravaganza\"",
     "60": "Hermit Sign \"Fabulously, Absolutely Starry Shaku Light\"",
