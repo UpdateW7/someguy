@@ -461,8 +461,8 @@
         "she wants me to take pictures of her nonspells. Weird flex, but okay."
     ],
     "20_5": [
-        "Looks like a mix of characters, but as a Pop Idol, if it makes sense.",
-        "Unsure who she is. She looks cool and casual, so LMK in the comments."
+        "She looks like a mix of characters, I just cannot pinpoint which ones.",
+        "Maybe it's some isekai deal or something. Mad weird."
     ],
     "20_6": [
         "She looks a lot like a regular human, but I guess she channels dreams.",

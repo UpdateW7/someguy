@@ -12,7 +12,8 @@
 		"ringo": "Not the starr, the bunny. Replaces TH15 Junko with a custom Ringo boss fight. Lots of bugs regarding music.",
 		"umalt": "A scrapbook of ideas and messing around with the game. Fun stuff.",
 		"umdemo": "A medley of the first 3 stages of UM crafted within HSiFS because why not? Kinda rushed for a contest, but I tried.",
-		"vdr": "A scrapbook of ideas and messing around with the game. Fun stuff."
+		"vdr": "A scrapbook of ideas and messing around with the game. Fun stuff.",
+		"vdlc": "An add-on for vdr that changes a few characters around for funsies. Changes the 3rd Friday and Final Day Scene 3."
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/someguy/"
