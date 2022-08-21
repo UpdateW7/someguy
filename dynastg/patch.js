@@ -1,10 +1,10 @@
 {
-    "id": "nitroni",
+    "id": "dynastg",
     "dependencies": [
         "nmlgc/base_tsa"
     ],
     "servers": [
         "https://mirrors.thpatch.net/someguy/"
     ],
-    "title": "Cool Nitori spriteswap retexture thingy for 18.5."
+    "title": "18.5 backgrounds go nyoom and wheee per wave."
 }
