@@ -15,7 +15,8 @@
 		"vdr": "A scrapbook of ideas and messing around with the game. Fun stuff.",
 		"vdlc": "An add-on for vdr that changes a few characters around for funsies. Changes the 3rd Friday and Final Day Scene 3.",
 		"nitroni": "Cool Nitori spriteswap retexture thingy for 18.5.",
-		"dynastg": "18.5 backgrounds go nyoom and wheee per wave."
+		"dynastg": "18.5 backgrounds go nyoom and wheee per wave.",
+		"cirnoday": "A celebration for Cirno! Adds to Cirno's 100BM moveset."
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/someguy/"
