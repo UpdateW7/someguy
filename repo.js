@@ -17,7 +17,8 @@
 		"umdemo": "A medley of the first 3 stages of UM crafted within HSiFS because why not? Kinda rushed for a contest, but I tried.",
 		"vdlc": "An add-on for vdr that changes a few characters around for funsies. Changes the 3rd Friday and Final Day Scene 3.",
 		"vdr": "A scrapbook of ideas and messing around with the game. Fun stuff.",
-		"17titleplus": "A multilingually supported patch that adds a cool big graphic onto WBaWC's stage titles."
+		"17titleplus": "A multilingually supported patch that adds a cool big graphic onto WBaWC's stage titles.",
+		"15titleplus": "A follow-up to 17titleplus!"
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/someguy/"
