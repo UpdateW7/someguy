@@ -19,7 +19,8 @@
 		"vdr": "A scrapbook of ideas and messing around with the game. Fun stuff.",
 		"17titleplus": "A multilingually supported patch that adds a cool big graphic onto WBaWC's stage titles.",
 		"15titleplus": "A follow-up to 17titleplus!",
-		"keikimas": "A Christmas gift from Keiki, a slightly more robust ''Idola Diabolus.''"
+		"keikimas": "A Christmas gift from Keiki, a slightly more robust ''Idola Diabolus.''",
+		"pofv_with_voice": "A meme.  Loud noise warning for this one."
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/someguy/"
