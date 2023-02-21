@@ -20,7 +20,8 @@
 		"17titleplus": "A multilingually supported patch that adds a cool big graphic onto WBaWC's stage titles.",
 		"15titleplus": "A follow-up to 17titleplus!",
 		"keikimas": "A Christmas gift from Keiki, a slightly more robust ''Idola Diabolus.''",
-		"pofv_with_voice": "A meme.  Loud noise warning for this one."
+		"pofv_with_voice": "A joke mod that was spontaneously made. Loud noise warning for this one.",
+		"16titleplus": "A threequel to 17titleplus!"
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/someguy/"
