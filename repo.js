@@ -22,7 +22,8 @@
 		"keikimas": "A Christmas gift from Keiki, a slightly more robust ''Idola Diabolus.''",
 		"pofv_with_voice": "A joke mod that was spontaneously made. Loud noise warning for this one.",
 		"16titleplus": "A threequel to 17titleplus!",
-		"tsukasabg": "Ports the UMALT Tsukasa spell bg to 100BM and UDoALG"
+		"tsukasabg": "Ports the UMALT Tsukasa spell bg to 100BM and UDoALG.",
+		"EXspellbg": "Incorporates EX Boss Portraits from UFO onwards into their Spell BG."
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/someguy/"
