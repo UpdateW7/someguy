@@ -23,7 +23,8 @@
 		"pofv_with_voice": "A joke mod that was spontaneously made. Loud noise warning for this one.",
 		"16titleplus": "A threequel to 17titleplus!",
 		"tsukasabg": "Ports the UMALT Tsukasa spell bg to 100BM and UDoALG.",
-		"EXspellbg": "Incorporates EX Boss Portraits from UFO onwards into their Spell BG."
+		"EXspellbg": "Incorporates EX Boss Portraits from UFO onwards into their Spell BG.",
+		"lostmarket": "Replaces 4th Market bosses with those who were absent from the game (with Yuuma somehwere else)."
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/someguy/"
