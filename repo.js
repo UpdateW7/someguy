@@ -25,7 +25,8 @@
 		"tsukasabg": "Ports the UMALT Tsukasa spell bg to 100BM and UDoALG.",
 		"EXspellbg": "Incorporates EX Boss Portraits from UFO onwards into their Spell BG.",
 		"lostmarket": "Replaces 4th Market bosses with those who were absent from the game (with Yuuma somehwere else).",
-		"titleplus": "A compilation of the titleplus mods. Will maybe also be updated with new games sometime later!"
+		"titleplus": "A compilation of the titleplus mods. Will maybe also be updated with new games sometime later!",
+		"fullhouse": "Same 100BM bosses, new movesets they can choose from!"
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/someguy/"
