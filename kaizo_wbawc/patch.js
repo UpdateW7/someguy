@@ -9,6 +9,6 @@
     ],
     "update": true,
     "servers": [
-        "https://srv.thpatch.net/kaizo_wbawc/"
+        "https://raw.githubusercontent.com/UpdateW7/someguy/master/kaizo_wbawc/"
     ]
 }

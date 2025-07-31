@@ -6,6 +6,6 @@
     ],
     "update": true,
     "servers": [
-        "https://srv.thpatch.net/epro/"
+        "https://raw.githubusercontent.com/UpdateW7/someguy/master/epro/"
     ]
 }

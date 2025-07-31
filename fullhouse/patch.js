@@ -6,7 +6,7 @@
 		"nmlgc/western_name_order"
     ],
     "servers": [
-        "https://mirrors.thpatch.net/someguy/"
+        "https://raw.githubusercontent.com/UpdateW7/someguy/master/fullhouse/"
     ],
     "title": "Same 100BM bosses, new movesets they can choose from!"
 }

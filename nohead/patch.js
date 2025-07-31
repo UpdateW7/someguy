@@ -6,7 +6,7 @@
         "nmlgc/western_name_order"
     ],
     "servers": [
-        "https://mirrors.thpatch.net/someguy/"
+        "https://raw.githubusercontent.com/UpdateW7/someguy/master/nohead/"
     ],
     "title": "Replaces TH14 Sukuna with a custom Sekibanki boss fight. I watched one boss rush video, and this happened."
 }

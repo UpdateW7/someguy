@@ -30,7 +30,7 @@
 		"poai": "A large-scale mod of UDoALG that gives everyone new attacks and more!"
 	},
 	"servers": [
-		"https://mirrors.thpatch.net/someguy/"
+		"https://raw.githubusercontent.com/UpdateW7/someguy/master/"
 	],
 	"title": "Bullet Artistry"
 }

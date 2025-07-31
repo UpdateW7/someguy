@@ -6,7 +6,7 @@
         "nmlgc/western_name_order"
     ],
     "servers": [
-        "https://mirrors.thpatch.net/someguy/"
+        "https://raw.githubusercontent.com/UpdateW7/someguy/master/ringo/"
     ],
     "title": "Not the starr, the bunny. Replaces TH15 Junko with a custom Ringo boss fight. Lots of bugs regarding music."
 }

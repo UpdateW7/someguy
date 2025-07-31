@@ -9,7 +9,7 @@
 	    "ExpHP/anm_leak"
     ],
     "servers": [
-        "https://mirrors.thpatch.net/someguy/"
+        "https://raw.githubusercontent.com/UpdateW7/someguy/master/umdemo/"
     ],
     "title": "A medley of the first 3 stages of UM crafted within HSiFS because why not? Kinda rushed for a contest, but I tried."
 }

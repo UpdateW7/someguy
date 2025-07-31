@@ -6,7 +6,7 @@
         "nmlgc/western_name_order"
     ],
     "servers": [
-        "https://mirrors.thpatch.net/someguy/"
+        "https://raw.githubusercontent.com/UpdateW7/someguy/master/aya_bad/"
     ],
     "title": "More like, whya! Makes Aya harder than what she was originally. Otherwise a test mod."
 }
