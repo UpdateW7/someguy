@@ -8,6 +8,7 @@
 	    "ExpHP/base_exphp",
 	    "ExpHP/anm_leak"
     ],
+	"update": true,
     "servers": [
         "https://raw.githubusercontent.com/UpdateW7/someguy/master/umdemo/"
     ],

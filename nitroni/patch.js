@@ -3,6 +3,7 @@
     "dependencies": [
         "nmlgc/base_tsa"
     ],
+	"update": true,
     "servers": [
         "https://raw.githubusercontent.com/UpdateW7/someguy/master/nitroni/"
     ],
