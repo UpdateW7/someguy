@@ -1,13 +1,13 @@
 {
-    "id": "fullhouse",
-    "dependencies": [
-        "nmlgc/base_tsa",
+	"dependencies": [
+		"nmlgc/base_tsa",
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order"
-    ],
-	"update": true,
-    "servers": [
-        "https://raw.githubusercontent.com/UpdateW7/someguy/master/fullhouse/"
-    ],
-    "title": "Same 100BM bosses, new movesets they can choose from!"
+	],
+	"id": "fullhouse",
+	"servers": [
+		"https://raw.githubusercontent.com/UpdateW7/someguy/master/fullhouse/"
+	],
+	"title": "Same 100BM bosses, new movesets they can choose from!",
+	"update": true
 }

@@ -1,0 +1,21 @@
+{
+	"patch.js": 3314299926,
+	"th185/boss17.anm": 1107234632,
+	"th185/en17/cdbg03b.png": 2752982986,
+	"th185/en17/cdbg05a00.png": 1768043072,
+	"th185/en17/cdbg05a01.png": 4078611547,
+	"th185/en17/cdbg05b00.png": 1053486747,
+	"th185/en17/cdbg07b00.png": 3906548440,
+	"th185/en17/enm5m.png": 309614751,
+	"th19/pl08.anm": 1755435174,
+	"th19/pl08b.anm": 3047222567,
+	"th19/pl08f.anm": 3695022884,
+	"th19/player/pl08/boss/boss_tukasa.png": 660977141,
+	"th19/player/pl08/boss/cdbg03b.png": 2752982986,
+	"th19/player/pl08/boss/cdbg05a00.png": 1768043072,
+	"th19/player/pl08/boss/cdbg05a01.png": 4078611547,
+	"th19/player/pl08/boss/cdbg05b00.png": 1053486747,
+	"th19/player/pl08/boss/cdbg07b00.png": 3906548440,
+	"th19/player/pl08/boss/pl08ex.png": 2780196091,
+	"tsuka.png": 982985775
+}

@@ -1,0 +1,21 @@
+{
+	"patch.js": 219830804,
+	"th09/ALRIGHT_ENEMIES_PREPARE_FOR_TOTAL_ANNIHILATION.png": 186463993,
+	"th09/data/title/title02.png": 1519767938,
+	"th09/desktop.ini": 3514054565,
+	"th09/se_cat00.wav": 377084220,
+	"th09/se_charge00.wav": 765584913,
+	"th09/se_enep01.wav": 1597902001,
+	"th09/se_exattack.wav": 3144124928,
+	"th09/se_extend.wav": 1708597822,
+	"th09/se_gosp.wav": 1630595378,
+	"th09/se_lazer00.wav": 3617948689,
+	"th09/se_life1.wav": 332222412,
+	"th09/se_playerdead.wav": 3487856676,
+	"th09/se_pldead00.wav": 1886719703,
+	"th09/se_power0.wav": 3722482751,
+	"th09/se_powerup.wav": 290424700,
+	"th09/se_slash.wav": 3845135321,
+	"th09/se_timestop0.wav": 985448520,
+	"th09/se_warning.wav": 3229537730
+}

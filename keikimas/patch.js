@@ -1,11 +1,11 @@
 {
-    "id": "keikimas",
-    "title": "A christmas gift from Keiki, a more robust ''Idola Diabolus.''",
-    "dependencies": [
-        "nmlgc/base_tsa"
-    ],
-    "update": true,
-    "servers": [
-        "https://raw.githubusercontent.com/UpdateW7/someguy/master/keikimas/"
-    ]
+	"dependencies": [
+		"nmlgc/base_tsa"
+	],
+	"id": "keikimas",
+	"servers": [
+		"https://raw.githubusercontent.com/UpdateW7/someguy/master/keikimas/"
+	],
+	"title": "A christmas gift from Keiki, a more robust ''Idola Diabolus.''",
+	"update": true
 }
