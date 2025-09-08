@@ -101,6 +101,8 @@
 	"th185/en24/ename.png": 1958788363,
 	"th185/en24/enm7.png": 2961246766,
 	"th185/en24/face07ct.png": 3525804977,
+	"th20/st07enm.anm": 2748630288,
+	"th20/stgenm/stage07/face01ct.png": 2104952852,
 	"th95/cdbg/cdbg22.png": 489430105,
 	"th95/cdbg/cdbg24.png": 3217193500
 }

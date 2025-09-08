@@ -19,6 +19,7 @@
 		"morpho": "An After Extra of HSiFS made by me because Eternity is a cool character.",
 		"nitroni": "Cool Nitori spriteswap retexture thingy for 18.5.",
 		"nohead": "Replaces TH14 Sukuna with a custom Sekibanki boss fight. I watched one boss rush video, and this happened.",
+		"okinaShuffle": "Shuffles the order of Okina's Stage 6 attacks. Let's do the Okina Shuffle!",
 		"poai": "A large-scale mod of UDoALG that gives everyone new attacks and more!",
 		"pofv_with_voice": "A meme. Loud noise warning for this one.",
 		"ringo": "Not the starr, the bunny. Replaces TH15 Junko with a custom Ringo boss fight. Lots of bugs regarding music.",
