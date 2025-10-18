@@ -1,5 +1,5 @@
 {
-	"README.txt": 81663515,
+	"README.txt": 247907066,
 	"patch.js": 2555680262,
 	"stringdefs.js": null,
 	"th06.js": null,
@@ -808,7 +808,7 @@
 	"th165/title/title_ver.png": 1431036202,
 	"th165/title_v.anm": 3829950664,
 	"th165/titlemsg.js": 2936032653,
-	"th165/titlemsg.txt": 1728501181,
+	"th165/titlemsg.txt": 3961907335,
 	"th165/tripletrouble.anm": 2194302244,
 	"th165/trophy.anm": 106353938,
 	"th165/trophy.js": 863758135,

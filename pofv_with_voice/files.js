@@ -2,7 +2,7 @@
 	"patch.js": 219830804,
 	"th09/ALRIGHT_ENEMIES_PREPARE_FOR_TOTAL_ANNIHILATION.png": 186463993,
 	"th09/data/title/title02.png": 1519767938,
-	"th09/desktop.ini": 3514054565,
+	"th09/desktop.ini": 1364161356,
 	"th09/se_cat00.wav": 377084220,
 	"th09/se_charge00.wav": 765584913,
 	"th09/se_enep01.wav": 1597902001,

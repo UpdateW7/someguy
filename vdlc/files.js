@@ -135,7 +135,7 @@
 	"th165/title/title_logo.png": null,
 	"th165/title/title_logoc.png": 1053699956,
 	"th165/titlemsg.js": 2125637050,
-	"th165/titlemsg.txt": 2941325004,
+	"th165/titlemsg.txt": 1791767188,
 	"th165/trophy.js": null,
 	"th165/tutorial01.png": null,
 	"th165/tutorial02.png": null,

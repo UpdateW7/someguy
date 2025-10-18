@@ -76,6 +76,7 @@
 	"th19/player/pl18/boss/pl18ex.png": 2810872908,
 	"th19/poai.png": 3677188247,
 	"th19/spells.js": 2383069348,
+	"th19/title/title_logo.png": 365552525,
 	"th19/wave01.ecl": 834121851,
 	"th19/wave01f.ecl": 3659245952,
 	"th19/wave02.ecl": 2484079459,
