@@ -106,6 +106,7 @@
 	"th19/world05.std": 570560284,
 	"th19/world06.std": 2159818655,
 	"th19/world07.std": 1637213400,
+	"th19/world08.anm": 291273586,
 	"th19/world08.std": 2808834248,
 	"th19/world09.std": 328534786,
 	"th19/world10.std": 2927296279,
